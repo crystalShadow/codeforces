@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//added .gitignore
 
 string func(int a, int b, int c){
     if(a < b){
